@@ -167,7 +167,7 @@
         "removebg": {
             "REMOVEBG_DESC": "chithrathinte background maayichu kalaayan.",
             "NEED_PHOTO": "*photo thaa mister!*",
-            "NO_API_KEY": "*Ente moilali api key thanilla aliyaa😭*\n```remove.bg login for apikey```",
+            "NO_API_KEY": "*Api key illa*\n```remove.bg login for apikey```",
             "RBGING": "```maayikkunu...```"
         },
         "scrapers": {
@@ -216,14 +216,14 @@
         },
         "updater": {
             "UPDATER_DESC": "update indo enn ariyaan.",
-            "UPDATE": "*Nan already update aan muthe 😘😝!*",
+            "UPDATE": "*Sophia bot is upto date!*",
             "NEW_UPDATE": "*sophia Puthiya Update Vannittund..... update cheyunathin mumb support groupil chodikuka 😁 allengil chillapol errors varum 🙂 group-link: https://chat.whatsapp.com/CYGahR3hC1DHq44n4ri5J6 * \n\n update cheyummathin munb support groupil chodhikkuka , allenkkil error veran chance und\n\nChanges:\n```",
             "UPDATE_NOW_DESC": "botine update cheyaan.",
-            "UPDATING": "```Update aakikondirikunnu manushyaa🤩😍😘..🐥```",
+            "UPDATING": "```updating wait few miniuts```",
             "INVALID_HEROKU": "*❌ ningal thanna Heroku information thett aan !*",
             "UPDATED": "*Update aaki monuse 😁🤠✅*",
             "UPDATED_LOCAL": "*✅ vijayagaramayi Update cheythu!*",
-            "AFTER_UPDATE": "*😎 Sophoa Restarting..*"
+            "AFTER_UPDATE": "*😎 Sophia Restarting..*"
         },
         "weather": {
             "WEATHER_DESC": "ningal therrunna sthalathe kaalavastha kaanikkum.",
