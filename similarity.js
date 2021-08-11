@@ -1,5 +1,5 @@
 /* WhatsAsena Duplicated - Artificial Intelligence Similarity
-Codded by lyfee
+Codded by hisham
 
 function similarity(first, second) {
 	first = first.replace(/\s+/g, '')
