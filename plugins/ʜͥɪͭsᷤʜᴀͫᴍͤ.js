@@ -5,7 +5,7 @@ you may not use this file except in compliance with the License.
 Youtube https://youtube.com/c/ICHUTECH
 */
 
-const Amdi = require('../events');
+const Asena = require('../events');
 const Config = require('../config');
 const {MessageType, MessageOptions, Mimetype} = require('@adiwajshing/baileys');
 const fs = require('fs');
