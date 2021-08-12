@@ -75,6 +75,16 @@
             "BTS_DESC": "Get BTS random images.",
             "EXO_DESC" : "Get EXO random images.",
             "BP_DESC": "Get Black Pink random images."
+        },       
+        "info": {
+            "INFO_DESC": "Show chat details",
+            "GRP_NAME": "*ℹ️ Group name :*",
+            "GRP_JID": "*💬 Group JID :*",
+            "GRP_OWN": "*⚜️ Group owner :*",
+            "GRP_COD": "*🆔 Group invite link :*",
+            "GRP_DES": "*🗨️ Group description :*",
+            "PRO_JID": "*💬 User JID :*",
+            "PRO_DES": "*🗨️ Description :*"
         },
         "heroku": {
             "RESTART_DESC": "Restart WhatsAsena",
