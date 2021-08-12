@@ -71,6 +71,11 @@
             "NEED_REPLY": "```Please reply to a message!```",
             "MUST_TEXT": "```Please reply to any message```"
         },
+        "random_pic":{
+            "BTS_DESC": "Get BTS random images.",
+            "EXO_DESC" : "Get EXO random images.",
+            "BP_DESC": "Get Black Pink random images."
+        },
         "heroku": {
             "RESTART_DESC": "Restart WhatsAsena",
             "RESTART_MSG": "```Restarting...🧚‍♂️```",
