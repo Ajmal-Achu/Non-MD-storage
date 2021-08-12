@@ -49,6 +49,11 @@
             "L_DESC": "location ayach therum.",
             "L_WARN": "location on aan enn orapp verthugga!"
         },
+        "random_pic":{
+            "BTS_DESC": "Get BTS random images.",
+            "EXO_DESC" : "Get EXO random images.",
+            "BP_DESC": "Get Black Pink random images."
+        },
         "afk": {
             "AFK_DESC": "ningale AFK aakkum - Away From Keyboard.",
             "IM_AFK": "*njan AFK aan!*",
