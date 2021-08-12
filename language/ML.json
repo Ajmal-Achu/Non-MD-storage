@@ -75,6 +75,16 @@
             "NEKO_DESC": "Replied messages will be added to nekobin.com.",
             "NEED_REPLY": "```oru messagin reply cheyyu!```",
             "MUST_TEXT": "```eathellum oru messagin reply cheyyu```"
+        },     
+        "info": {
+            "INFO_DESC": "Show chat details",
+            "GRP_NAME": "*ℹ️ Group name :*",
+            "GRP_JID": "*💬 Group JID :*",
+            "GRP_OWN": "*⚜️ Group owner :*",
+            "GRP_COD": "*🆔 Group invite link :*",
+            "GRP_DES": "*🗨️ Group description :*",
+            "PRO_JID": "*💬 User JID :*",
+            "PRO_DES": "*🗨️ Description :*"
         },
         "heroku": {
             "RESTART_DESC": "\nRestart pinkymwol\n",
