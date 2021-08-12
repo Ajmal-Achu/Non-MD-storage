@@ -33,6 +33,7 @@ module.exports = {
     PLK: process.env.OWNER_NAME === undefined ? 'default' : process.env.OWNER_NAME,
     MUTEMSG: process.env.MUTE_MESSAGE === undefined ? 'default' : process.env.MUTE_MESSAGE,
     BGMFILTER: process.env.BGM_FILTER === undefined ? false : convertToBool(process.env.BGM_FILTER),
+    THERI_KICK: process.env.THERI_KICK === undefined ? 'false' : process.env.THERI_KICK,
     DISBGM: process.env.DISABLE_JID_BGM_FILTER === undefined ? false : process.env.DISABLE_JID_BGM_FILTER,
     NOLOG: process.env.NO_LOG === undefined ? 'false' : process.env.NO_LOG,
     CAPTION_KEY: process.env.CAPTION_KEY === undefined ?'Made by SOPHIA' : process.env.CAPTION_KEY,
