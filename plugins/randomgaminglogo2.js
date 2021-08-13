@@ -14,7 +14,7 @@ if (Config.WORKTYPE == 'private') {
 
     if (match[1] === '') return await message.sendMessage(need);
 
-    var ttinullimage = await axios.get(`https://api.lolhuman.xyz/api/ephoto1/fpslogo?apikey=qamdi5652&text=${encodeURIComponent(match[1])}`, { responseType: 'arraybuffer' })
+    var ttinullimage = await axios.get(`https://api.lolhuman.xyz/api/ephoto1/fpslogo?apikey=${Config.LOLUHUMAN_API}&text=${encodeURIComponent(match[1])}`, { responseType: 'arraybuffer' })
 
     await message.sendMessage(Buffer.from(ttinullimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: 'Made By Sophia' })
 
@@ -27,7 +27,7 @@ else if (Config.WORKTYPE == 'public') {
 
     if (match[1] === '') return await message.sendMessage(need);
 
-    var ttinullimage = await axios.get(`https://api.lolhuman.xyz/api/ephoto1/fpslogo?apikey=qamdi5652&text=${encodeURIComponent(match[1])}`, { responseType: 'arraybuffer' })
+    var ttinullimage = await axios.get(`https://api.lolhuman.xyz/api/ephoto1/fpslogo?apikey=${Config.LOLUHUMAN_API}&text=${encodeURIComponent(match[1])}`, { responseType: 'arraybuffer' })
 
     await message.sendMessage(Buffer.from(ttinullimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: 'Made By Sophia' })
 
