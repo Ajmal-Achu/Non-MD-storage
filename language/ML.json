@@ -530,6 +530,11 @@
             "BUL": "Founded Song:",
             "ARAT": "Searched Song:"
         },
+        "font":{
+            "FONT_DESC": "Make your text fancy.",
+            "NEED_WORD":"*You must enter a word*",
+            "NO_RESULT": "*I can not make this fancy
+        },
         "github": {
             "GİTHUB_DESC": "Collects github information from the given username.\n⌨️ Example: .github phaticusthiccy",
             "REPLY": "```You Need To Type Any Username!```",
