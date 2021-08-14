@@ -116,6 +116,11 @@
             "ALREADY_NO_FILTER": "*❌ There is already no filter like this!*",
             "DELETED": "*✅ The filter was successfully deleted!*"
         },
+         "font":{
+            "FONT_DESC": "Make your text fancy.",
+            "NEED_WORD":"*You must enter a word*",
+            "NO_RESULT": "*I can not make this fancy
+        },
         "greetings": {
             "WELCOME_DESC": "It sets the welcome message. If you leave it blank it shows the welcome message.",
             "NOT_SET_WELCOME": "*You don't set the welcome message yet.!*\n**To set:** ```.welcome your welcome message```",
