@@ -119,7 +119,7 @@
          "font":{
             "FONT_DESC": "Make your text fancy.",
             "NEED_WORD":"*You must enter a word*",
-            "NO_RESULT": "*I can not make this fancy
+            "NO_RESULT": "*I can not make this fancy*"
         },
         "greetings": {
             "WELCOME_DESC": "It sets the welcome message. If you leave it blank it shows the welcome message.",
