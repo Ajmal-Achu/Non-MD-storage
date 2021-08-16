@@ -137,7 +137,7 @@ QueenSew.addCommand({pattern: 'report ?(.*)', fromMe: false, desc: REPORT_DESC},
         
     }));
     
-    QueenSew.newcmdaddtosew({pattern: 'report ?(.*)', fromMe: true, desc: REPORT_DESC}, (async (message, match) => {    
+    QueenSew.addCommand({pattern: 'report ?(.*)', fromMe: true, desc: REPORT_DESC}, (async (message, match) => {    
         if (message.reply_message !== false, match[1] === '') {
         var SewRep;{
         SewRep = match[1];
