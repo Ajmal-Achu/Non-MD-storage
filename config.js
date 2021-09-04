@@ -1,6 +1,6 @@
 
 /* Copyright (C) 2021 ichu.
-
+🙂❤Sophia 
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
 
@@ -42,6 +42,7 @@ module.exports = {
     CAPTION_KEY: process.env.CAPTION_KEY === undefined ?'Made by SOPHIA' : process.env.CAPTION_KEY,
     FULLEVA: process.env.FULL_EVA === undefined ? 'false' : process.env.FULL_EVA,
     GIF_WEL: process.env.GIF_WEL === undefined ? 'https://i.imgur.com/ZoA7as9.mp4' : process.env.GIF_WEL,
+    INBO: process.env.INBO_BLOCK === undefined ? 'true' : process.env.INBO_BLOCK,
     GIF_BYE: process.env.GIF_BYE === undefined ? 'https://i.imgur.com/NTar8dQ.mp4' : process.env.GIF_BYE,
     BLOCKMSG: process.env.BLOCK_MESSAGE === undefined ? 'default' : process.env.BLOCK_MESSAGE,
     UNBLOCKMSG: process.env.UNBLOCK_MESSAGE === undefined ? 'default' : process.env.UNBLOCK_MESSAGE,
