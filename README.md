@@ -2,7 +2,7 @@
 <p align="center">
     <a href="https://avatars.githubusercontent.com/u/85664936?v=4">
         <img
-            src="https://readme-typing-svg.herokuapp.com?font=Halo+Handletter&color=66ffe9&size=32&lines=WELCOME+TO+Nandhutty_v2;MEDIA+STORAGE+[media]...;MADE+BY....;Ajmal-Achu"
+            src="https://readme-typing-svg.herokuapp.com?font=Halo+Handletter&color=66ffe9&size=32&lines=WELCOME+TO+Jewel_v2;MEDIA+STORAGE+[media]...;MADE+BY....;farookser"
             alt="Typing SVG"
         />
     </a>
